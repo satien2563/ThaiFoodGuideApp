@@ -44,7 +44,7 @@ export default function HomeScreen() {
   return (
     <ScrollView style={styles.container}>
       <Text style={styles.title}>Thai Food Guide</Text>
-      <Text style={styles.sectionTitle}>{t('recommended')}</Text>
+      <Text style={styles.sectionTitle}>{t('favorites')}</Text>
 
       {loading ? (
         <ActivityIndicator size="large" color="#888" />
@@ -54,8 +54,11 @@ export default function HomeScreen() {
             <TouchableOpacity key={index} style={styles.card}>
               <Image
                 source={{ uri: dish.image_detail_url }}
-                style={styles.image}
+                style={{ width: 120, height: 120, borderRadius: 8 }}
               />
+               <Text style={{ fontSize: 10, color: 'gray' }}>
+                {dish.image_detail_url}
+                </Text>
               <Text style={styles.dishText}>{dish.dish_en}</Text>
             </TouchableOpacity>
           ))}
