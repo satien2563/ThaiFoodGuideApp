@@ -3,6 +3,7 @@
   "dishes": "Dishes",
   "map": "Map",
   "favorites": "Favorites",
+<<<<<<< HEAD
   "profile": "Profile",
   "explore_by_region": "Explore by Region",
   "recommended_for_you": "Recommended for You",
@@ -30,3 +31,7 @@
   "extra_hot": "Extra Hot"
 
 }
+=======
+  "profile": "Profile"
+}
+>>>>>>> 4e32320c7dd7c00d7db8810f9701a3a5a57e2cff

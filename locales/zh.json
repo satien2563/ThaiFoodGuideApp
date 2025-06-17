@@ -27,7 +27,12 @@
   "medium": "中辣",
   "hot": "特辣",
   "very_hot": "非常辣",
-  "extra_hot": "超辣"
+  "extra_hot": "超辣",
+
+
+  "home": "首页",
+  "dishes": "菜单",
+  "map": "地图",
+  "favorites": "收藏",
+  "profile": "我的帐户"
 }
-
-

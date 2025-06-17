@@ -24,6 +24,7 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+<<<<<<< HEAD
     },
     "plugins": [
       [
@@ -47,5 +48,8 @@
       ]
     ]  
     
+=======
+    }
+>>>>>>> 4e32320c7dd7c00d7db8810f9701a3a5a57e2cff
   }
 }
