@@ -1,0 +1,32 @@
+{
+  "home": "Home",
+  "dishes": "Dishes",
+  "map": "Map",
+  "favorites": "Favorites",
+  "profile": "Profile",
+  "explore_by_region": "Explore by Region",
+  "recommended_for_you": "Recommended for You",
+  "find_nearby": "Find Thai Food Near You",
+  "my_favorites": "My Favorite Dishes",
+  "search_placeholder": "Search Thai Food...",
+  "login": "Login",
+  "logout": "Logout",
+  "register": "Register",
+  "recommended": "Recommended",
+  "favorites": "Favorites",
+  "find_nearby": "Find Nearby",
+  "search": "Search",
+  "central": "Central",
+  "north": "North",
+  "northeastern": "Northeastern",
+  "south": "South",
+  
+  "all": "All",
+  "not_spicy": "Not Spicy",
+  "mild": "Mild",
+  "medium": "Medium",
+  "hot": "Hot",
+  "very_hot": "Very Hot",
+  "extra_hot": "Extra Hot"
+
+}
